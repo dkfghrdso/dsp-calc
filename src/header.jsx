@@ -1,4 +1,3 @@
-import React from 'react';
 import {Nav, Navbar, OverlayTrigger, Tooltip} from 'react-bootstrap';
 import {FaInfoCircle, FaMoon, FaQq, FaReact, FaSun} from 'react-icons/fa';
 import {useTheme} from './ThemeContext.jsx';
